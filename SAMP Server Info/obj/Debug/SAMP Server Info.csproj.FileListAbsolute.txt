@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\SAMP Server Info\SAMP Server Info\obj\Debug\SAMP Server Info.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\SAMP Server Info\SAMP Server Info\obj\Debug\SAMP_Server_Info.Properties.Resources.resources
+C:\Users\Administrator\source\repos\SAMP Server Info\SAMP Server Info\obj\Debug\SAMP Server Info.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\SAMP Server Info\SAMP Server Info\obj\Debug\SAMP Server Info.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SAMP Server Info\SAMP Server Info\bin\Debug\SAMP Server Info.exe.config
+C:\Users\Administrator\source\repos\SAMP Server Info\SAMP Server Info\bin\Debug\SAMP Server Info.exe
+C:\Users\Administrator\source\repos\SAMP Server Info\SAMP Server Info\bin\Debug\SAMP Server Info.pdb
+C:\Users\Administrator\source\repos\SAMP Server Info\SAMP Server Info\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\SAMP Server Info\SAMP Server Info\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\source\repos\SAMP Server Info\SAMP Server Info\obj\Debug\SAMP Ser.B49557E2.Up2Date
+C:\Users\Administrator\source\repos\SAMP Server Info\SAMP Server Info\obj\Debug\SAMP Server Info.exe
+C:\Users\Administrator\source\repos\SAMP Server Info\SAMP Server Info\obj\Debug\SAMP Server Info.pdb
